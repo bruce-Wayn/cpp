@@ -1,3 +1,7 @@
+/*since i'm practicing, thus i'm not writing the easy and shorter version of this program,
+i'll be trying to do the same with other programs as well. this one can also be made shorter,
+but i intend not to make it*/
+
 /*One hot summer day Pete and his friend Billy decided to buy a watermelon.
 They chose the biggest and the ripest one, in their opinion.
 After that the watermelon was weighed, and the scales showed w kilos.
